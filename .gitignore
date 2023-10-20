@@ -1,3 +1,11 @@
-/nbproject/private/
+# OSX
+*.DS_Store
 
-.DS_Store
+# Netbeans specific
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
+
+/build/
+
+/test/
